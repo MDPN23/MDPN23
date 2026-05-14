@@ -1,4 +1,4 @@
-# Hi there, I'm Pandu! 👋
+# Hi there, I'm Nares! 👋
 
 I am a **Full-Stack Engineer**, **Cybersecurity Researcher**, and **Business Developer** currently pursuing a Master's degree in **Cyber Security and Forensics** at Telkom University. I bridge the gap between robust technical implementation, rigorous security standards, and strategic business growth.
 
